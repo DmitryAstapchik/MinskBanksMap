@@ -1,0 +1,139 @@
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+c:\users\st.itstep\documents\visual studio 2013\Projects\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form1.resources
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form1.resources
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.xml
+D:\JEMAND\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form1.resources
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.xml
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form1.resources
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+C:\Users\Andrey\Desktop\_Banks\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form1.resources
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.FormMap.resources
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.FormAddDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\_Banks\BanksWindowsForms\obj\Debug\BanksWindowsForms.FormEditDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_Map.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_AddDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_EditDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\BanksWindowsForms\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe.config
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\BanksWindowsForms.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\GMap.NET.Core.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_map.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_addDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Form_editDepartment.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.Properties.Resources.resources
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.csproj.CoreCompileInputs.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.exe
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\BanksWindowsForms\obj\Debug\BanksWindowsForms.pdb

@@ -1,0 +1,83 @@
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\JEMAND\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\BanksWindowsForms\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Andrey\Desktop\_Banks\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_BanksNew\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\_Banks\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk banks map\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Дима учеба\программирование\ADO.NET\Minsk bank map\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Studying\programming\ADO.NET\MinskBanksMap\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

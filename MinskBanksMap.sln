@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{3D156140-BFFD-4A19-AA1C-436C542254FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinskBanksMap", "MinskBanksMap\MinskBanksMap.csproj", "{4508D833-A26F-4C4B-A415-53103351D378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D156140-BFFD-4A19-AA1C-436C542254FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D156140-BFFD-4A19-AA1C-436C542254FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D156140-BFFD-4A19-AA1C-436C542254FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D156140-BFFD-4A19-AA1C-436C542254FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4508D833-A26F-4C4B-A415-53103351D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4508D833-A26F-4C4B-A415-53103351D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4508D833-A26F-4C4B-A415-53103351D378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4508D833-A26F-4C4B-A415-53103351D378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC1C863-D94C-471C-979D-9BEAF2CE2C78}
+	EndGlobalSection
+EndGlobal
